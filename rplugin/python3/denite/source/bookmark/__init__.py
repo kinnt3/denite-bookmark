@@ -1,9 +1,3 @@
-# ============================================================================
-# FILE: bookmark.py
-# AUTHOR: <kinntai at gmail.com>
-# License: MIT license
-# ============================================================================
-
 import os
 import sys
 import json
